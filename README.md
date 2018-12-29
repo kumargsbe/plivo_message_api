@@ -1,2 +1,4 @@
 # plivo_message_api
-API testing using Python code
+This repository has python code to automate API testing. 
+All the neccesary information is part of the "Message_api.py" file.
+
